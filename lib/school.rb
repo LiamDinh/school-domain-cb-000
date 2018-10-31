@@ -14,6 +14,6 @@ class School
   end
 
   def grade(student_grade)
-  end 
-  
+  end
+
 end
